@@ -48,17 +48,3 @@ square brackets are removed, following the legacy convention. NRRD axes are
 `(rows, columns, slices)`, with rows varying fastest. Spacings follow the original
 converter's convention; origins remain in the XML sidecar. RGB images and
 sinograms are unsupported.
-
-## Layout
-
-```text
-CMakeLists.txt
-src/          C++ converter
-reference/    Original Python converter; not needed to build or run
-examples/     Small bundled CT TIFF sample; other images are excluded from Git
-build/        Local build artifacts; excluded from Git
-```
-
-The pre-existing executable is preserved as `./build/mito_unpack` and can be
-used immediately. Its CMake cache refers to the old location; the build commands
-above use a fresh `build/release/` directory without changing that build.
