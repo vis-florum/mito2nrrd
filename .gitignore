@@ -1,0 +1,7 @@
+/build/
+__pycache__/
+*.tif
+*.tiff
+*.nrrd
+*_ScanSettings.xml
+*.tmp.*
