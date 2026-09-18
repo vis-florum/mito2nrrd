@@ -2,6 +2,7 @@
 __pycache__/
 *.tif
 *.tiff
+!/examples/example.tiff
 *.nrrd
 *_ScanSettings.xml
 *.tmp.*

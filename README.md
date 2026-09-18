@@ -55,7 +55,7 @@ sinograms are unsupported.
 CMakeLists.txt
 src/          C++ converter
 reference/    Original Python converter; not needed to build or run
-examples/     Local TIFF input; large images are excluded from Git
+examples/     Small bundled CT TIFF sample; other images are excluded from Git
 build/        Local build artifacts; excluded from Git
 ```
 
