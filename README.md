@@ -49,17 +49,23 @@ square brackets are removed, following the legacy convention. NRRD axes are
 converter's convention; origins remain in the XML sidecar. RGB images and
 sinograms are unsupported.
 
+## Citation
+
+**Citation is necessary for research use.** If `mito2nrrd` contributes to your
+work, cite or credit it in the resulting publication, presentation, software,
+or documentation:
+
+> Johannes Huber. *mito2nrrd: a Microtec CT TIFF to NRRD converter.*
+> [ORCID 0000-0001-9196-0370](https://orcid.org/0000-0001-9196-0370),
+> [github.com/vis-florum/mito2nrrd](https://github.com/vis-florum/mito2nrrd).
+
+GitHub-compatible citation metadata is provided in [`CITATION.cff`](CITATION.cff).
+
 ## License
 
 Copyright © 2026 Johannes Huber. Licensed under the
-[PolyForm Noncommercial License 1.0.0](LICENSE.md).
-
-Personal and noncommercial research use is free of charge; the license also
-covers educational institutions and public research organizations. Retain the
-required notice and credit `mito2nrrd` and Johannes Huber in publications,
-documentation, or acknowledgements; GitHub citation metadata is provided in
-`CITATION.cff`.
-
-Commercial use, including incorporation into commercial software, requires a
-separate paid license. Contact [johannes.huber@ltu.se](mailto:johannes.huber@ltu.se).
-This is a source-available license, rather than an OSI-approved open-source license.
+[Apache License 2.0](LICENSE). Commercial and noncommercial use, modification,
+and distribution are permitted under its terms. Preserve the license, copyright,
+and `NOTICE` attribution where required. The citation request above expresses
+the academic attribution expected for research use and does not add a restriction
+to Apache-2.0.

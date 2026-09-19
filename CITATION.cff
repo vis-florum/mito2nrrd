@@ -1,9 +1,16 @@
 cff-version: 1.2.0
-message: "If you use mito2nrrd, please cite or credit it using the following metadata."
+message: "Citation is necessary for research use of mito2nrrd. Please cite it using this metadata."
 title: mito2nrrd
+abstract: "A fast converter for Microtec reconstructed CT TIFF files to NRRD volumes."
 authors:
   - family-names: Huber
     given-names: Johannes
     email: johannes.huber@ltu.se
+    orcid: "https://orcid.org/0000-0001-9196-0370"
 repository-code: "https://github.com/vis-florum/mito2nrrd"
-license: PolyForm-Noncommercial-1.0.0
+license: Apache-2.0
+keywords:
+  - computed tomography
+  - TIFF
+  - NRRD
+  - image conversion
