@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use mito2nrrd, please cite or credit it using the following metadata."
+title: mito2nrrd
+authors:
+  - family-names: Huber
+    given-names: Johannes
+    email: johannes.huber@ltu.se
+repository-code: "https://github.com/vis-florum/mito2nrrd"
+license: PolyForm-Noncommercial-1.0.0

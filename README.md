@@ -48,3 +48,18 @@ square brackets are removed, following the legacy convention. NRRD axes are
 `(rows, columns, slices)`, with rows varying fastest. Spacings follow the original
 converter's convention; origins remain in the XML sidecar. RGB images and
 sinograms are unsupported.
+
+## License
+
+Copyright © 2026 Johannes Huber. Licensed under the
+[PolyForm Noncommercial License 1.0.0](LICENSE.md).
+
+Personal and noncommercial research use is free of charge; the license also
+covers educational institutions and public research organizations. Retain the
+required notice and credit `mito2nrrd` and Johannes Huber in publications,
+documentation, or acknowledgements; GitHub citation metadata is provided in
+`CITATION.cff`.
+
+Commercial use, including incorporation into commercial software, requires a
+separate paid license. Contact [johannes.huber@ltu.se](mailto:johannes.huber@ltu.se).
+This is a source-available license, rather than an OSI-approved open-source license.
