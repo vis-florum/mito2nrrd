@@ -55,7 +55,7 @@ sinograms are unsupported.
 work, cite or credit it in the resulting publication, presentation, software,
 or documentation:
 
-> Johannes Huber. *mito2nrrd: a Microtec CT TIFF to NRRD converter.*
+> Johannes A. J. Huber. *mito2nrrd: a Microtec CT TIFF to NRRD converter.*
 > [ORCID 0000-0001-9196-0370](https://orcid.org/0000-0001-9196-0370),
 > [github.com/vis-florum/mito2nrrd](https://github.com/vis-florum/mito2nrrd).
 
@@ -63,7 +63,7 @@ GitHub-compatible citation metadata is provided in [`CITATION.cff`](CITATION.cff
 
 ## License
 
-Copyright © 2026 Johannes Huber. Licensed under the
+Copyright © 2026 Johannes A. J. Huber. Licensed under the
 [Apache License 2.0](LICENSE). Commercial and noncommercial use, modification,
 and distribution are permitted under its terms. Preserve the license, copyright,
 and `NOTICE` attribution where required. The citation request above expresses
